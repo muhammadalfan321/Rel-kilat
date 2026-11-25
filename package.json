@@ -1,0 +1,12 @@
+{
+  "name": "rel-kilat",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node build.mjs",
+    "lint": "node lint.mjs",
+    "start": "node server.mjs"
+  }
+}
